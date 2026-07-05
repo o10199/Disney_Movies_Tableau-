@@ -74,5 +74,3 @@ Disney's box office history reveals a clear strategic evolution. The studio buil
 
 ---
 
-## References
-Suvroo. (2024, September 13). *Disney movies dataset*. Kaggle. https://www.kaggle.com/datasets/suvroo/disney-movies-dataset
